@@ -1,1 +1,2 @@
-git init
+git init-this will make it a git path
+git status - this prints the status of git repository
