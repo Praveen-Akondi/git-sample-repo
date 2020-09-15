@@ -5,7 +5,17 @@ git commit -m "commit meaage(optionla)" - to commit file
 git log filename- to see history 
 git diff filename- to see difference with old and new code
 
+
 --------------
 
 
 we are adding new data from branch1
+>>>>>>> 125cc546fb34f24b8f1fe66259216d2f14fb4adb
+
+
+
+------------------------
+branch 2 data
+
+when we are in branch2 from terminal and open this file then 
+we dont see the data added in branch 1 and vice vers
