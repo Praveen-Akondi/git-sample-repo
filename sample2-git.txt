@@ -1,0 +1,4 @@
+git init-this will make it a git path
+git status - this prints the status of git repository
+git add filename.txt- to add file into repo and tracking
+git commit -m "commit meaage(optionla)" - to commit file
