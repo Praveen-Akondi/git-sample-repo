@@ -4,3 +4,10 @@ git add filename.txt- to add file into repo and tracking
 git commit -m "commit meaage(optionla)" - to commit file
 git log filename- to see history 
 git diff filename- to see difference with old and new code
+
+
+------------------------
+branch 2 data
+
+when we are in branch2 from terminal and open this file then 
+we dont see the data added in branch 1 and vice versa
